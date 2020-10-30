@@ -70,7 +70,7 @@ button:focus-visible {
     outline: 5px auto -webkit-focus-ring-color;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 767px) {
   .navbar {
     height: 50.333px;
   }
